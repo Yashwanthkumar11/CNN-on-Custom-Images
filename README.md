@@ -30,7 +30,7 @@ We can also do few transformations like Cropping, Resizing, Flipping, Rotation o
  After all transormations 
  ![](https://github.com/Yashwanthkumar11/CNN-on-Custom-Images/blob/master/.ipynb_checkpoints/p4.png)
 
-The implementation is done using pyTorch, so we have to convert the pixels array to tensors.
+Since implementation is done using pyTorch, we have to convert the pixels array to tensors.
 
 # Model
 
